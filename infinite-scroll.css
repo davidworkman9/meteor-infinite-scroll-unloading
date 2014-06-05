@@ -1,0 +1,6 @@
+#list {
+	margin: 0px auto;
+	width: 100px;
+	height: 250px;
+	overflow-y: scroll;
+}
